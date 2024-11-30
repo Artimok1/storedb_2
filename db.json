@@ -1,5 +1,6 @@
 {
 
+<<<<<<< HEAD
     "users":[
         {
         "id": 1,
@@ -15,5 +16,20 @@
 
 
     
+=======
+    "users":[{
+        "id": 1,
+        "name": "Artemii",
+        "surname": "Hvozdyk",
+        "photo_url": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp",
+        "balance": 3600
+        },{
+        "id": 2,
+        "name": "Denis",
+        "surname": "Chubarenko",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_LUNJngOd30HT7IPSUAOZa9HrisJ_6HQQbQ&s",
+        "balance": 123456789
+    }]
+>>>>>>> 871e898b98bf727d86ed88c81aeaf8d9b408373a
 }
 
