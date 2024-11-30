@@ -1,17 +1,19 @@
 {
 
-    "users":{
-
-        
-
-        "user":{
-            
+    "users":[
+        {
+        "id": 1,
+        "name": "Artemii",
+        "surname": "Hvozdyk",
+        "photo_url": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp",
+        "balance": 3600
         }
+    ]
 
 
         
 
 
-    }
+    
 }
 
