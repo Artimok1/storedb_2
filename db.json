@@ -1,17 +1,11 @@
 {
 
-    "users":{
-
-        
-
-        "user":{
-            
-        }
-
-
-        
-
-
-    }
+    "users":[{
+        "id": 2,
+        "name": "Denis",
+        "surname": "Chubarenko",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_LUNJngOd30HT7IPSUAOZa9HrisJ_6HQQbQ&s",
+        "balance": 123456789
+    }]
 }
 
