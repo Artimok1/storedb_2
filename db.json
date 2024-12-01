@@ -1,35 +1,30 @@
 {
 
-<<<<<<< HEAD
-    "users":[
-        {
-        "id": 1,
-        "name": "Artemii",
-        "surname": "Hvozdyk",
-        "photo_url": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp",
-        "balance": 3600
-        }
-    ]
-
-
-        
-
-
-    
-=======
     "users":[{
         "id": 1,
         "name": "Artemii",
         "surname": "Hvozdyk",
         "photo_url": "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp",
         "balance": 3600
-        },{
+        },
+        {
         "id": 2,
         "name": "Denis",
         "surname": "Chubarenko",
         "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_LUNJngOd30HT7IPSUAOZa9HrisJ_6HQQbQ&s",
         "balance": 123456789
-    }]
->>>>>>> 871e898b98bf727d86ed88c81aeaf8d9b408373a
+    }],
+    "Cars": [
+    { "id": 1, "model": "Corolla", "brand": "Toyota", "year": 1966 },
+    { "id": 2, "model": "Golf", "brand": "Volkswagen", "year": 1974 },
+    { "id": 3, "model": "F-150", "brand": "Ford", "year": 1948 },
+    { "id": 4, "model": "Civic", "brand": "Honda", "year": 1972 },
+    { "id": 5, "model": "C-Class", "brand": "Mercedes-Benz", "year": 1993 },
+    { "id": 6, "model": "3 Series", "brand": "BMW", "year": 1975 },
+    { "id": 7, "model": "Model 3", "brand": "Tesla", "year": 2017 },
+    { "id": 8, "model": "Elantra", "brand": "Hyundai", "year": 1990 },
+    { "id": 9, "model": "Silverado", "brand": "Chevrolet", "year": 1999 },
+    { "id": 10, "model": "Altima", "brand": "Nissan", "year": 1992 }
+]
 }
 
